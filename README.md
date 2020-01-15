@@ -1,4 +1,3 @@
-# Fate of humanity
 Dedicated to humanity and their future.
 
     .
