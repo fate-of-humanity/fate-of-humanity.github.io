@@ -6,6 +6,7 @@ Dedicated to humanity and their future.
     
     .
     
-fate-of-humanity.github.io/1
+https://fate-of-humanity.github.io/powerpointpresentation.html
+https://fate-of-humanity.github.io/pdf.pdf
 
-^ link to the text
+For the explanation in pdf or html form.
