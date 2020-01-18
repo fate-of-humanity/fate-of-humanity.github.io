@@ -8,7 +8,11 @@ Dedicated to humanity and their future.
     
 [pdf](https://fate-of-humanity.github.io/pdf.pdf)
 
-For the explanation in pdf format.
+[html](https://fate-of-humanity.github.io/html.html)
+
+[powerpoint](https://drive.google.com/open?id=1dtSN5e22fYNNCulnBboN8eZ605uLAUd_)
+
+For the explanation in respective formats.
 
     .
 
