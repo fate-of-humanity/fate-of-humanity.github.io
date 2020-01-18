@@ -19,6 +19,7 @@ For the explanation in respective formats.
 [forum](http://fate-of-humanity.boards.net)
  
 For the forum, a place used for discussion.
+
     .
 
 Send an email to human.mail.user@gmail.com incase of errors.
