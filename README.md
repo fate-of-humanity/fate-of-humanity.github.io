@@ -22,7 +22,7 @@ For the forum, a place used for discussion.
 
     .
 
-Send an email to human.mail.user@gmail.com incase of errors.
+Send an email to human.mail.user@gmail.com incase of anything relevant.
 
     .
 
