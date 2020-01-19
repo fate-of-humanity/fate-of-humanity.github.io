@@ -10,7 +10,7 @@ Dedicated to humanity and their future.
 
 [html](https://fate-of-humanity.github.io/html.html)
 
-[powerpoint](https://drive.google.com/open?id=1dtSN5e22fYNNCulnBboN8eZ605uLAUd_)
+[powerpoint](https://drive.google.com/open?id=1yFI_BRpNjzYx2OR-BMZnAfny_VjHXEjN)
 
 For the explanation in respective formats.
 
