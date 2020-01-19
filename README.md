@@ -26,4 +26,4 @@ Send an email to human.mail.user@gmail.com incase of anything relevant.
 
     .
 
-Last updated on 18.01.2020
+Last updated on 19.01.2020
