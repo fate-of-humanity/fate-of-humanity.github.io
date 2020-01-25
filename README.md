@@ -27,7 +27,3 @@ Send an email to human.mail.user@gmail.com incase of anything relevant.
     .
 
 Last updated on 25.01.2020
-
-    .
-
-Traffic on this website will be taken note of.
