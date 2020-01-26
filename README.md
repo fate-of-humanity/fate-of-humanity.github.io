@@ -16,9 +16,7 @@ For the explanation in respective formats.
 
     .
     
-[forum](http://fate-of-humanity.boards.net)
- 
-For the forum, a place used for discussion.
+[reddit](https://www.reddit.com/r/Renewalism/)
 
     .
 
