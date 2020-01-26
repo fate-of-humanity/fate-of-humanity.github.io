@@ -10,7 +10,7 @@ Dedicated to humanity and their future.
 
 [html](https://fate-of-humanity.github.io/html.html)
 
-[powerpoint](https://drive.google.com/open?id=1w595jDzE1c0YYFwrGzcoL-jyCtD75YcC)
+[powerpoint](https://drive.google.com/open?id=1rBkAwzg1qPMemASqu7AnWB3b9jZ4qq6K)
 
 For the explanation in respective formats.
 
@@ -26,4 +26,4 @@ Send an email to human.mail.user@gmail.com incase of anything relevant.
 
     .
 
-Last updated on 25.01.2020
+Last updated on 26.01.2020
