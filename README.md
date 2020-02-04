@@ -1,5 +1,3 @@
-[pdf](https://fate-of-humanity.github.io/pdf.pdf)
+[old pdf](https://fate-of-humanity.github.io/pdf.pdf)
 
-[html](https://fate-of-humanity.github.io/html.html)
-
-For the explanation in respective formats.
+[new pdf](pptx new1.pdf)
