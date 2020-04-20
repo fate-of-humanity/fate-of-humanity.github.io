@@ -1,3 +1,3 @@
-Why you should work: [Link to the .pdf version of the manifesto.](https://fate-of-humanity.github.io/futurismpdf.pdf)
+Future of humanity: [Link](https://fate-of-humanity.github.io/futurismpdf.pdf)
 
-How you can work harder: [Link to the .pdf version of the explanation of the human.](https://fate-of-humanity.github.io/machinationsofhumanpdf.pdf)
+Contact: qobukob@gmail.com
