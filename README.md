@@ -1,3 +1,1 @@
-Future of humanity: [Link](https://fate-of-humanity.github.io/futurismpdf.pdf)
-
-Contact: qobukob@gmail.com
+If you somehow ended up here and cannot access the main page, then contact: qobukob@gmail.com to explain your complication.
