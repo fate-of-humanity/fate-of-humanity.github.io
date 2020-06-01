@@ -133,32 +133,47 @@
 									<p id="#"><b>:</b></p>
 									<p id="#"><b>:</b></p>
 										<!--NEW CULTURE-->
-									<h2 id="suggested-culture"><b><u>SUGGESTED CULTURE:</u></b></h2>
-									<p id="#"><b>Coherence over beauty:</b> The truth was never made to be accepted. Emphasis on beauty over coherence can lead to <a class="tooltip">communication errors<span class="tooltiptext">Misunderstandings, premature ends of conversation</span></a>, amplified when people are unskilled. Also leads to communication for the the sole purpose of beauty, not necessarily beneficial for the primary goal.</p>	
+									<h2 id="suggested-culture-title"><b><u>SUGGESTED CULTURE:</u></b></h2>
+									<div class="tab">
+										<button class="tablinks" onclick="openCity(event, '#')">X</button>
+										<button class="tablinks" onclick="openCity(event, 'suggested-culture')">Suggested culture:</button>
+										<button class="tablinks" onclick="openCity(event, 'coherence')">Coherence over beauty:</button>
+										<button class="tablinks" onclick="openCity(event, 'reality-utility')">Reality as utility:</button>
+										<button class="tablinks" onclick="openCity(event, 'excel')">Pressure to excel:</button>
+										<button class="tablinks" onclick="openCity(event, 'relevance')">Relevance:</button>
+										<button class="tablinks" onclick="openCity(event, 'true-resp')">True responsibility:</button>
+									</div><div id="#" class="tabcontent"></div>
+									<div id="suggested-culture" class="tabcontent"><h3>Suggested culture</h3><p></p></div>
+									<div id="coherence" class="tabcontent"><h3>Coherence over beauty</h3><p>The truth was never made to be accepted. Emphasis on beauty over coherence can lead to <a class="tooltip">communication errors<span class="tooltiptext">Misunderstandings, premature ends of conversation</span></a>, amplified when people are unskilled. Also leads to communication for the the sole purpose of beauty, not necessarily beneficial for the primary goal.</p>
 										<p id="#"><b>Unabstract talking:</b> Unless it's to dazzle the uninitiated.</p>
 										<p id="#"><b>Arguing as a responsibility rather than calamity:</b></p>	
-									<p id="#"><b>The body as utility:</b> rather than meaning. Efficiency is for the greater good, be responsible with your body.</p>
+									</div>
+									<div id="reality-utility" class="tabcontent"><h3>Reality as utility</h3><p>Rather than meaning. Efficiency is for the greater good, be responsible with your body.</p>
 										<p id="#"><b>Pleasure as an occurance:</b> Due to the amount of pleasurable activites in the modern world, addiction to useless activities is easy. Shunning.</p>	
 										<p id="#"><b>Useless emotions as weakness:</b> General lack of self-control can be disruptive. Shunning.</p>	
 										<p id="#"><b>Emotions as tools:</b> Use them to accomplish tasks. Though, emotions do not always reflect interests/values. Training/acclimation can reduce disparity. Important due to emotionalism.</p>	
 										<p id="#"><b>Lives as utility:</b> If you're old and useless, or plan on having children, think if this truly will be useful.</p>	
-										<p id="#"><b>Experiences as perspectives:</b> What you experience is not what is real, but only what you experience.</p>	
-									<p id="#"><b>Pressure to excel:</b> There is no organization without motivation.</p>
+										<p id="#"><b>Experiences as perspectives:</b> What you experience is not what is real, but only what you experience.</p>
+									</div>
+									<div id="excel" class="tabcontent"><h3>Pressure to excel</h3><p>There is no organization without motivation.</p>
 										<p id="#"><b>Shunning of time-wasting:</b> <a class="tooltip">Peer pressure<span class="tooltiptext">Pressure by your peers</span></a> easily influences decision-making. This allows a culture of productivity to create better workers. <a href="#stress">stress</a>.</p>	
 										<p id="#"><b>Freedom of information:</b> An environment without context is not to be responded well to..</p>	
 										<p id="#"><b>Vigilance to maintain guidelines:</b> Reward good actions, punish bad actions. Preferably without hampering the cause.</p>	
-									<p id="#"><b>Relevant practices:</b> Imagination bends to reality, reality does not bend to imagination.</p>	
+									</div>
+									<div id="relevance" class="tabcontent"><h3>Relevance</h3><p>Imagination bends to reality, reality does not bend to imagination.</p>
 										<p id="#"><b>Tolerance first:</b> Belief-changing over reality-changing.</p>
 										<p id="#"><b>Solution based on situation:</b> Different situations require different solutions.</p>	
 										<p id="#"><b>Truth only second to human value:</b> Stumbling around blind isn't useful when seeking order.</p>	
 										<p id="skepsis-of-praxis"><b>Skepsis of praxis:</b> Keep what is useful, cease what is not. Even if you made it, or other practice it, does not matter.</p>
-									<p id="#"><b>True responsibility:</b> The future of humanity rests on our shoulders.</p>	
+									</div>
+									<div id="true-resp" class="tabcontent"><h3>True responsibility</h3><p>The future of humanity rests on our shoulders.</p>
 										<p id="#"><b>Action over declaration:</b> Change is done with action. Words only inspire change. Instead of only agreeing on good and bad, it should be implemented.</p>	
 										<p id="#"><b>Power is responsibility:</b> Your voice is a power. Being silent is not being neutral, but irresponsible.</p>
 										<p id="#"><b>Responsibility as pursuit:</b> Actively spend time finding the most responsible decisions to make.</p>		
 										<p id="#"><b>Exploration as response to unknowingness:</b> Discover reality if you do not know it.</p>	
 										<p id="#"><b>Concede to the more likely:</b> If unable to find the truth, concede to the more likely for convenience.</p>	
-									<p id="#"><b>:</b></p>	
+									</div>
+									<p></p>
 										<!--SYSTEM IDEAS-->
 									<h2 id="system-ideas"><b><u>SYSTEM IDEAS:</u></b></h2>
 									<p id="#"><b>Alignment qualification:</b></p>
@@ -262,6 +277,20 @@
 			<script src="assets/js/breakpoints.min.js"></script>
 			<script src="assets/js/util.js"></script>
 			<script src="assets/js/main.js"></script>
+			<script>
+				function openCity(evt, cityName) {
+				  var i, tabcontent, tablinks;
+				  tabcontent = document.getElementsByClassName("tabcontent");
+				  for (i = 0; i < tabcontent.length; i++) {
+					tabcontent[i].style.display = "none";
+				  }
+				  tablinks = document.getElementsByClassName("tablinks");
+				  for (i = 0; i < tablinks.length; i++) {
+					tablinks[i].className = tablinks[i].className.replace(" active", "");
+				  }
+				  document.getElementById(cityName).style.display = "block";
+				}
+			</script>
 
 	</body>
 </html>
